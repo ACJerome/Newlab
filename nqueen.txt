@@ -59,3 +59,6 @@ void Output(int n,int x[])
     cout<<x[n]<<"]"<<endl;
     return;
 }
+
+
+11111111
